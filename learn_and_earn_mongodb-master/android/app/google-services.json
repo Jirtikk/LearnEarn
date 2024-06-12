@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631529516347",
+    "project_id": "learn-and-earn-77d0b",
+    "storage_bucket": "learn-and-earn-77d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631529516347:android:744b74ace3edec7b581b1e",
+        "android_client_info": {
+          "package_name": "com.example.learn_and_earn_mongodb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631529516347-rjorvb5pmt38u3r7phb1gvv5fpr21uci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn_and_earn_mongodb",
+            "certificate_hash": "fa11e3fabe8d3b40eeb009e41571cef1cdd1717e"
+          }
+        },
+        {
+          "client_id": "631529516347-1m8up5k55lf29i84bjb025vmjgj0khfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37wCnPA85hbn5LHW8sXA-dD0d5TIZO0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631529516347-1m8up5k55lf29i84bjb025vmjgj0khfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
